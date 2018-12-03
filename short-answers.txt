@@ -1,0 +1,2 @@
+what is git? Git is a method of version control on your local device.
+what is github? github is a way to collaborate with team members to code projects in real time.
